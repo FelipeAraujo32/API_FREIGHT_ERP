@@ -97,8 +97,3 @@ cd freight-api
 - Observabilidade (actuator, métricas Prometheus, tracing);
 - Pipeline CI com lint, testes e quality gates.
 
----
-
-## 👤 Autor
-
-Projeto desenvolvido por **João Vitor** como portfólio técnico de backend para oportunidades em engenharia de software.
